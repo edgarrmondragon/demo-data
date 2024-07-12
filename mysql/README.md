@@ -2,9 +2,6 @@
 
 ## Instructions
 
-```shell
-docker run --rm --name mysql-demo -e MYSQL_ROOT_PASSWORD=my-secret-pw -p 3306:3306 -d mysql
-```
 1. Build the container
 
    ```shell
